@@ -1,6 +1,6 @@
 # DeepFake Classification
 
-XceptionNet was based on the paper trained on the [FaceForensics++ dataset](https://github.com/ondyari/FaceForensics). Besides the full image models, all models were trained on slightly enlarged face crops with a scale factor of 1.3.
+This repository was based on the [FaceForensics++ dataset](https://github.com/ondyari/FaceForensics). Besides the full image models, all models were trained on slightly enlarged face crops with a scale factor of 1.3.
 
 You can find the trained models under [this link](https://drive.google.com/drive/folders/1TvNujQ8Aar-j4hF1HyOqXKucULjMsi3C?usp=sharing).   
 
